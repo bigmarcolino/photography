@@ -1,0 +1,5 @@
+Ainda falta:
+
+- Não exibir portfólio com nome em branco;
+- Adicionar e remover imagens ao slide do home;
+- Adicionar e remover imagems em cada álbum.
